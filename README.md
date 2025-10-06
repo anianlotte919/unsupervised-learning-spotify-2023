@@ -7,7 +7,7 @@
 Discover hidden structure among 2023 Spotify hits using **K-Means** on acoustic and platform-popularity features, and visualize clusters with **PCA**.
 
 ## Repository Contents
-- `notebooks/deliverable1_kaggle.ipynb` — full analysis notebook (Deliverable 1)
+- `unsupervised-learning-final-project.ipynb` — full analysis notebook (Deliverable 1)
 - `figures/` — exported figures used in the report
 - `reports/findings_summary.md` — short written summary
 - `environment.yml` — minimal environment to reproduce plots
