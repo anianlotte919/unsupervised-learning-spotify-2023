@@ -34,16 +34,22 @@ Data is **not** redistributed here. To reproduce:
 - Cluster profile heatmap → `figures/cluster_profiles_heatmap.png`
 
 ## How to Reproduce Locally
-```bash
-# clone
-git clone https://github.com/<YOUR_USERNAME>/unsupervised-spotify-2023.git
-cd unsupervised-spotify-2023
 
-# create env (conda)
-conda env create -f environment.yml
-conda activate spotify-2023
+### clone this repository
+git clone https://github.com/anianlotte919/unsupervised-learning-spotify-2023.git
+cd unsupervised-learning-spotify-2023
 
-# or: pip install -r requirements.txt
+### install dependencies
+pip install -r requirements.txt
 
-# open the notebook
-jupyter lab notebooks/deliverable1_kaggle.ipynb
+### open the notebook
+jupyter lab notebooks/unsupervised-learning-final-project.ipynb
+
+
+
+## Citation
+
+If you refer to this repository, please cite it as:
+
+Yun Xia. *Unsupervised Learning on Spotify’s 2023 Most-Streamed Songs*. 2025.  
+GitHub: https://github.com/anianlotte919/unsupervised-learning-spotify-2023
