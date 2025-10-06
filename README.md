@@ -43,7 +43,7 @@ cd unsupervised-learning-spotify-2023
 pip install -r requirements.txt
 
 ### open the notebook
-jupyter lab notebooks/unsupervised-learning-final-project.ipynb
+kaggle kernels pull anianlotte919/unsupervised-learning-final-project.ipynb
 
 
 
