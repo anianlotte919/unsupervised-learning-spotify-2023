@@ -1,0 +1,3 @@
+cluster,bpm,danceability_%,energy_%,valence_%,acousticness_%,instrumentalness_%,liveness_%,speechiness_%,in_spotify_playlists,in_spotify_charts,in_apple_playlists,in_apple_charts,in_deezer_charts,streams
+0,122.71,67.25,63.9,51.23,27.54,1.65,18.5,10.55,2517.51,7.7,37.45,40.01,1.3,311985076.07
+1,121.85,65.82,65.82,52.25,25.09,1.3,17.03,8.45,16116.08,29.56,191.37,100.31,8.22,1335650161.84
